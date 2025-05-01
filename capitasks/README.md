@@ -1,5 +1,7 @@
 # 🧾 Capitasks
 
+![image](https://github.com/user-attachments/assets/746c0162-e447-4b4f-8402-83b71ac38f6a)
+
 Capitasks é uma aplicação de linha de comando (CLI) para gerenciamento de tarefas. Rápida, simples e com uma interface amigável — e claro, com uma capivara 🦫 para te acompanhar.
 
 ## ✨ Funcionalidades
