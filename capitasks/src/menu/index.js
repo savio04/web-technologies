@@ -36,7 +36,7 @@ export async function showMenu() {
     if (exec) {
       await exec()
 
-      showMenu()
+      await showMenu()
     }
   } catch (error) { }
 } 
